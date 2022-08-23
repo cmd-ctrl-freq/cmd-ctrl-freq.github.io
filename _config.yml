@@ -42,7 +42,8 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/cmd-ctrl-freq       # change to your github homepage
+    - https://github.com/cmd-ctrl-freq     
+    - https://www.linkedin.com/in/davidfentz/  
 
 
 google_site_verification:               # fill in to your verification string
