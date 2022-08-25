@@ -21,12 +21,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: A Website                      # the main title
+title: Darkstar's Data Dispensary # the main title
 
-tagline: This website contains information   # it will display as the sub-title
+tagline: A repository for quality thoughts. # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  I don't know what this is for.
+description: >-  # used by seo meta and the atom feed
+  A blog focusing on AWS, cybersecurity, and philosophy. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://cmd-ctrl-freq.github.io/'
@@ -34,19 +34,18 @@ url: 'https://cmd-ctrl-freq.github.io/'
 github:
   username: cmd-ctrl-freq             # change to your github username
 
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: David Fentz
-  email: example@doamin.com             # change to your email address
+  email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/cmd-ctrl-freq     
     - https://www.linkedin.com/in/davidfentz/  
 
 
-google_site_verification:               # fill in to your verification string
+google_site_verification:  # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
