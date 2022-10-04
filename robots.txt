@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://cmd-ctrl-freq.github.io//sitemap.xml
