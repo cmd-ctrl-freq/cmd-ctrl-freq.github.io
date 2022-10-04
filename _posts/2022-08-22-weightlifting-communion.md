@@ -1,0 +1,30 @@
+---
+title: Muscular Failure as Communion
+author: David Fentz
+date: 2022-10-03 18:33:00 +0800
+categories: [Draft]
+tags: [weightlifting]
+---
+## Muscular Failure as Communion
+
+In this post, I intend to portray an option for framing exercise that I believe is optimal and rarely utilized. Before doing so, as the framing relies on some rather esoteric and personal jargon, I will need to define some terms, and lay the groundwork for the perspective that is necessary to utilize this frame of mind. So bare with me if this seems completely unrelated to exercise initially.
+
+Gods are archetypal, non-material entities which exist within anthropocentric narratives and serve mankind as guideposts. They exist, on the lowest level, as reminders that Man contains within his psyche extremes/depths of experiential potential that he has either forgotten, or never experienced in his lifetime. More than mere reminder, gods can also serve as symbols of meditation with the intention of invocation. Invocation is the bringing into ones self, of energies that are foreign to day-to-day experience.
+
+For instance, a cage fighter might be wise to invoke Mars, the god of war, before a fight. The purpose here is to abandon the personality (persona originally meaning "mask", and being the character/puppet that we use in order to facilitate action on the social domain) and all the concerns it may have, in order to fill the nervous system with blood lust for a temporary period of time. If this talk of abandoning ones personality sounds totally crazy to you, then you probably also believe that you are the name on your birth certificate. That's fine. Carry on identifying with whatever you wish, and leave the fun tools to the adults. 
+
+Now, onto weight lifting. Weight lifting provides us the opportunity to reliably and consistently confront our actual physical limitations while minimizing risk of serious bodily damage. But what's actually happening when you're under a heavy load, and struggling with gravity to exert your will (moving the weight in the direction of your choice)? Or in other words, what does it MEAN? Well, that's up to you. I'll be offering a framework for understanding the process here.
+
+Regardless of what or who you think you are, it should be obvious that you might be able to become someone else. From my perspective that's not actually an option, but it is the fundamental truth of being. You ARE becoming someone else at every moment, regardless of the temporal granularity you use when segmenting time. Your cells are aging, your mind is changing, your political perspectives (even if you see them as static) are changing in relation to others (and do they really have any meaning in isolation?). The wise individual does not decide to change themselves, they merely attempt to divert the river of change in a direction of their choosing. This is what's happening when you put yourself under a heavy load, and decide to explore your physical and mental limits.
+
+Now the interesting part is that this is not just a psychological transformation which you are inducing during weight lifting. Your body will follow suit... but only under certain conditions; And what are those conditions? The answer: *novel stimulus* (we're disregarding other factors in the hypertrophy equations for the purposes of this post). 
+
+Now here's the framing. There is a version of yourself that is much more powerful in terms of will than you can imagine. You can invoke this god if you're willing to take part in ritual sacrifice. What is it that you must sacrifice? You must sacrifice your desire for comfort, your fear of social judgment, your fear of bodily injury, your fear of failure, and literally every other thought that happens to pass through your mind while under load. When you are under load, and participating in the ritual of [progressive overload](https://rpstrength.com/expert-advice/progressing-for-hypertrophy) (ie, working your way toward moving or actively moving a weight or volume which you have NEVER moved before), you are sacrificing the person that you presently are in order to summon a higher version of yourself. 
+
+When you exert all the effort you can muster, and begin to interface with physical and chemical barriers in your body which prevents the muscles from following the orders that your nervous system is sending, you enter into an alchemical process. Through your own metabolic furnace you will melt the person that you were before, which gives you an opportunity to skim off the [slag](https://www.thefreedictionary.com/slag) of your psychic weaknesses. This can happen if the movement of the weight becomes your point of attention for [gnosis](https://en.wikipedia.org/wiki/Gnosis_(chaos_magic)) (single pointed attention). 
+
+In this liminal space of muscular failure, you're presented with an opportunity to meet the strongest version of yourself. And I'm referring to strength of will. Physical strength is just a reflection of the strength of an individual's will. When your muscles are refusing to obey you, but you keep pushing, you might be in best situation within which to struggle that any modern human can find themselves. And this struggle is not bad, it's THE POINT of weightlifting. The struggling is an opportunity to come into contact with a version of yourself that cannot exist on the couch or at a fancy restaurant. The only way to develop will power is to, like muscle tissue, engage in overload. You need to find a situation within which you can exert more will than you ever have before, and weight lifting is the perfect opportunity. 
+
+So next time you go into the gym for a heavy weight lifting day, relax and be grateful for the opportunity to commune with a higher being. You're not just given the opportunity to tear muscles, you're literally able to create a mind which has never existed. Give yourself entirely to the movement as a sacrifice, and the universe will transform you.
+
+Just remember, after the set, to continue not thinking... and to eat and sleep a lot.
