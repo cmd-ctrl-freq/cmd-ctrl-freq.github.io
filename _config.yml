@@ -21,12 +21,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Solo Salon # the main title
+title: Undetermmined # the main title
 
-tagline: A repository for quality thoughts. # it will display as the sub-title
+tagline: Brain Dumping. # it will display as the sub-title
 
 description: >-  # used by seo meta and the atom feed
-  A blog focusing on AWS, cybersecurity, and potentially any other domain of knowledge. 
+  A blog focusing cybersecurity, and other misc topics. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://cmd-ctrl-freq.github.io/'
