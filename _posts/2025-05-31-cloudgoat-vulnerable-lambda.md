@@ -1,9 +1,9 @@
 ---
-title: Cloudgoat Vulnerable Lambda
+title: "Cloudgoat: Vulnerable Lambda"
 author: David (Mitch) Fentz
 date: 2022-04-26 18:33:00 +0800
 categories: [AWS]
-tags: 
+tags: [Cloudgoat,AWS]
 ---
 
 The following is a link to a blog post about the "Vulnerable Lambda" Cloudgoat scenario that I build while at Rhino Security Labs. 

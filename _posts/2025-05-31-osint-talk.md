@@ -1,5 +1,5 @@
 ---
-title: OSINT From An Attacker's Perspective
+title: "Talk: OSINT From An Attacker's Perspective"
 author: David (Mitch) Fentz
 date: 2023-06-04 18:33:00 +0800
 categories: [Talks]

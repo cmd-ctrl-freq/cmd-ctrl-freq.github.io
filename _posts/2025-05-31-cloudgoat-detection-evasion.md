@@ -1,5 +1,5 @@
 ---
-title: Cloudgoat Detection Evasion
+title: "Cloudgoat: Detection Evasion"
 author: David (Mitch) Fentz
 date: 2022-06-29 18:33:00 +0800
 categories: [AWS]
