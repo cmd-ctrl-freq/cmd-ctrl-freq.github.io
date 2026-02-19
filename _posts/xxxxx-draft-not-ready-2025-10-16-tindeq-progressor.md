@@ -24,3 +24,7 @@ The Tindeq.com site had a sitemap.xml file that lead to product pages for replac
 ![Tindeq Vuln](/images/tindeq/tindeq_vuln.gif)
 
 This isn't a wordpress issue, or an issue with the payment processing they are using, or a vuln in any of the underlying technology they are using, so I would classify this as a Business Logic flaw. It's pretty technically boring, but it's rare that I run across stuff like this in the wild so I figured I would document it. 
+
+UPDATE AS OF 02/19/2025:
+
+I reported this finding to Tindeq on 10/16/2025, and they responded very positively (on 10/19/2025), thanking me for bringing the finding to their attention. They think that the issue is not exploitable, and as of my most recent checking have not fixed it. 
